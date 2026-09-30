@@ -1,0 +1,10 @@
+{
+  "name": "Remix bisssss",
+  "description": "Bureau of Indian Standards (BIS) Intelligent Assistant for Indian Standards (IS), certification schemes (ISI, CRS, FMCS), hallmarking, laboratory testing, and consumer compliance.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
